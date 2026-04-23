@@ -1,0 +1,11 @@
+algoritmo-semana1
+
+pregunta 5:
+Repuesta: 
+1. Recibir una información que se quiere compartir
+2. Identificar quién es el autor o creador del contenido
+3. Revisar si la información tiene fuentes citadas
+4. Comprobar si el contenido es reciente y actualizado
+5. Evaluar si el lenguaje es claro o busca generar alarma
+6. Decidir si es útil y aporta algo positivo
+7. Compartir solo si cumple con criterios de confianza
