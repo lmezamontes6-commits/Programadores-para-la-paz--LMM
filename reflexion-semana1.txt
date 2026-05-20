@@ -1,0 +1,7 @@
+reflexion-semana1
+Pregunta 4. 
+Repuesta: El uso responsable de la información en internet está directamente relacionado con la participación ciudadana, ya que permite que las personas tomen decisiones informadas y aporten de manera consciente en la sociedad. Cuando verificamos la información antes de compartirla, contribuimos a evitar la desinformación y fortalecemos la confianza en los espacios digitales.
+
+Por otro lado, herramientas como Git en la organización del trabajo técnico también promueven la responsabilidad, ya que permiten llevar un control de cambios, trabajar en equipo y garantizar la transparencia en los procesos.
+
+Ambos aspectos se conectan en la importancia de actuar con ética, orden y responsabilidad, tanto en la gestión de la información como en el desarrollo de proyectos. Esto demuestra que la tecnología no solo se usa, sino que también se debe manejar con criterio y compromiso. 
