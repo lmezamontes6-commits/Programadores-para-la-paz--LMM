@@ -1,0 +1,13 @@
+Al consultar la ruta GET /reportes, el servidor muestra la lista de reportes registrados previamente mediante la ruta POST /reportes.
+
+Cada reporte contiene un identificador (id), el tipo de reporte y una descripción. Si no se ha registrado ningún reporte, la respuesta será un arreglo vacío ([]).
+
+Ejemplo de respuesta:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
