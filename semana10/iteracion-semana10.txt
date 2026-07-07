@@ -1,0 +1,16 @@
+ITERACIÓN 1
+
+Las dos primeras tareas que desarrollaría son:
+
+1. Implementar el registro de incidencias comunitarias.
+2. Configurar la notificación automática en Telegram cuando se registre un nuevo reporte.
+
+Estas tareas son las más importantes porque permiten iniciar el funcionamiento básico del sistema y facilitan el seguimiento oportuno de las incidencias por parte del equipo responsable.
+
+Definición de "Terminado"
+
+Una tarea se considera terminada cuando:
+
+- Funciona correctamente según los requisitos establecidos.
+- Ha sido probada y no presenta errores importantes.
+- Quedó registrada y documentada en Git mediante un commit.
