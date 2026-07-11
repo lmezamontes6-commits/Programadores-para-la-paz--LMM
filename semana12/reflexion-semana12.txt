@@ -1,0 +1,11 @@
+REFLEXIÓN SEMANA 12
+
+Durante este curso aprendí que la tecnología puede ser una herramienta importante para fortalecer la participación ciudadana y la organización comunitaria.
+Las plataformas digitales permiten organizar información, comunicar necesidades y facilitar la participación de las personas.
+También comprendí la importancia de diseñar soluciones tecnológicas pensando en las necesidades reales de la comunidad.
+El uso de bases de datos permite almacenar y organizar la información de manera estructurada.
+La automatización puede facilitar tareas y mejorar la comunicación mediante herramientas como n8n y Telegram.
+Además, es fundamental proteger los datos personales y utilizar únicamente la información necesaria.
+Aprendí que desarrollar una solución tecnológica no consiste solamente en programar, sino también en trabajar de manera organizada y responsable.
+Herramientas como “Petición en 3 Clics” pueden convertir una necesidad comunitaria en una acción colectiva concreta.
+Finalmente, considero que la tecnología, utilizada de manera ética y segura, puede contribuir al fortalecimiento de la democracia y la participación ciudadana.

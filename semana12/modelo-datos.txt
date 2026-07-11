@@ -1,0 +1,17 @@
+MODELO DE DATOS SIMPLE
+
+Entidad: Causa
+- id: identificador único de la causa.
+- titulo: nombre o asunto de la causa.
+- descripcion: explicación de la situación o petición.
+- fecha: fecha en la que fue creada.
+
+La entidad Causa sirve para almacenar la información principal de cada petición creada por la comunidad.
+
+Entidad: Apoyo
+- id: identificador único del apoyo.
+- causa_id: identifica la causa que recibe el apoyo.
+- nombre: nombre de la persona que apoya la causa.
+- fecha: fecha en la que se registró el apoyo.
+
+La entidad Apoyo sirve para registrar y relacionar los apoyos ciudadanos con una causa determinada. La relación entre ambas entidades permite conocer cuántas personas apoyan cada petición.

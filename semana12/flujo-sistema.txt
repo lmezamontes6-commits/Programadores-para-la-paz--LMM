@@ -1,0 +1,9 @@
+FLUJO DEL SISTEMA “PETICIÓN EN 3 CLICS”
+
+1. Un ciudadano crea una causa indicando el título y la descripción de la petición.
+2. La causa queda registrada en la base de datos.
+3. Otros ciudadanos pueden consultar la causa y registrar su apoyo.
+4. El sistema almacena y contabiliza los apoyos recibidos.
+5. El sistema organiza la información registrada.
+6. El sistema genera automáticamente un documento PDF con la petición formal.
+7. El documento puede ser compartido o presentado ante la entidad correspondiente.
